@@ -1,0 +1,20 @@
+{
+  "name": "voluptatemreprehenderit",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "ElzaLeuschke",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KaileeJerde/voluptatemreprehenderit.git"
+  },
+  "dependencies": {
+    "typescript-transform-paths": "^3.0.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  },
+  "peerDependencies": {
+    "@nestjs/cli": ">=8.0.0"
+  },
+  "homepage": "https://github.com/KaileeJerde/voluptatemreprehenderit.git"
+}
